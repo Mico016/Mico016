@@ -10,3 +10,5 @@
 
 - <b>Power BI</b>
   - [BPI Programmers Bi-Yearly Scorecard Dashboard](https://github.com/Mico016/BPI-Programmer-Bi-Year-Dashboard)
+  - [Data Professionals Survey](https://github.com/Mico016/Data-Professionals-Survey)
+
