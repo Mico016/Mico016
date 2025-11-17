@@ -6,9 +6,11 @@
 🏫 Graduated under [Diploma in Infomation and Communication Technology](https://www.pup.edu.ph/itech/dict) at Polytechnic University of the Philippines</br>
 💭 Learning Data Analytics</br>
 
-<h2>👨🏻‍💻 Projects: </h2> 
+<h2>👨🏻‍💻 Portfolio: </h2> 
 
 - <b>Power BI</b>
   - [BPI Programmers Bi-Yearly Scorecard Dashboard](https://github.com/Mico016/BPI-Programmer-Bi-Year-Dashboard)
   - [Data Professionals Survey](https://github.com/Mico016/Data-Professionals-Survey)
+- <b>Excel / Googlesheets</b>
+  - [Optemestics (Shop that sells excel digital template)](https://github.com/Mico016/Optimestics/tree/main)
 
