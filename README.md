@@ -12,5 +12,5 @@
   - [BPI Programmers Bi-Yearly Scorecard Dashboard](https://github.com/Mico016/BPI-Programmer-Bi-Year-Dashboard)
   - [Data Professionals Survey](https://github.com/Mico016/Data-Professionals-Survey)
 - <b>Excel / Googlesheets</b>
-  - [Optemestics (Shop that sells excel digital template)](https://github.com/Mico016/Optimestics/tree/main)
+  - [Optimestics (A digital shop selling customizable Excel & Google Sheets templates)](https://github.com/Mico016/Optimestics/tree/main)
 
