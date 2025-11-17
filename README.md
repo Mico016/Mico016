@@ -1,7 +1,7 @@
 
 <h1> Hello there, I'm Mico! </h1> 
 
-💻 Currently a BPA Automation Programmer at a BPO Company</br>
+💻 Currently a Business Process Automation Programmer at a BPO Company</br>
 ⌨️ Been a E-chat customer support at a BPO Company</br>
 🏫 Graduated under [Diploma in Infomation and Communication Technology](https://www.pup.edu.ph/itech/dict) at Polytechnic University of the Philippines</br>
 💭 Learning Data Analytics</br>
