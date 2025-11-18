@@ -4,7 +4,7 @@
 💻 Currently a Business Process Automation Programmer at a BPO Company</br>
 ⌨️ Been a E-chat customer support at a BPO Company</br>
 🏫 Graduated under [Diploma in Infomation and Communication Technology](https://www.pup.edu.ph/itech/dict) at Polytechnic University of the Philippines</br>
-📖 [LinkedIn](https://www.linkedin.com/in/mico-santos-995694224/)
+📖 [LinkedIn](https://www.linkedin.com/in/mico-santos-995694224/)</br>
 💭 Learning Data Analytics</br>
 
 <h2>👨🏻‍💻 Portfolio: </h2> 
